@@ -1,5 +1,5 @@
 function Home(){
-    return <h1>O deploy foi feito meu chapa!</h1>
+    return <h1>Teste de deploy com amend de verdade!</h1>
 }
 
 export default Home;
